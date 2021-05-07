@@ -1,0 +1,5 @@
+Servidor App:
+
+- Local:
+
+docker run -d -v /Users/macuser/Proyectos/siba-scrapper/app/:/home/admin/app/ --name scrapper -p 8090:80  maomuriel/centos610-php73:0.1.2 httpd-foreground
