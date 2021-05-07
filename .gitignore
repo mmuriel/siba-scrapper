@@ -10,3 +10,6 @@ app/Homestead.json
 app/Homestead.yaml
 app/npm-debug.log
 app/yarn-error.log
+app/storage/siba/
+app/storage/siba/*
+mysql-data/*
